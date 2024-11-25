@@ -72,7 +72,12 @@ Interestingly, as a defense mechanism and survival strategy, aphids may display 
 
 
 
-<img src="Images/Aphid_Tonic_Immobility.gif" alt="relative" style="width: 1000%;" />
+<img src="Images/Aphid_Tonic_Immobility.gif" alt="relative" style="width: 100%;" />
+
+
+
+https://github.com/user-attachments/assets/bed94495-8360-40e9-9b54-ba1a5930d2c0
+
 
 ------
 
