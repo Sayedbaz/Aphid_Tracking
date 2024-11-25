@@ -28,7 +28,9 @@ Snapshots from a recorded video included 8 behavioral arenas.
 
 ## **Printing overview**
 
-[3D-parts](https://github.com/Sayedbaz/Aphid_Tracking/tree/main/3D_printed_parts " target=_blank") with different designs are available for download from the following [link](https://github.com/Sayedbaz/Aphid_Tracking/tree/main/3D_printed_parts).  We also provide a file containing the optimal parameters and setting for high quality printing.  For different arena sizes, An CAD file is included in [onshape](https://cad.onshape.com/documents/ca48d507c3fd7c9ce7248830/w/1ea42ce5460d0e61e3c79328/e/212a23a2a2e88e1fc001638d?renderMode=0&uiState=673f0b836b5b324331d632c9), in which the diameter of the arena can be adjusted (*X*-Variable) and exported for 3D printing. 
+[3D-parts](https://github.com/Sayedbaz/Aphid_Tracking/tree/main/3D_printed_parts " target=_blank") with different designs are available for download from the following [link](https://github.com/Sayedbaz/Aphid_Tracking/tree/main/3D_printed_parts).  We also provide a file containing the optimal parameters and setting for high quality printing.  
+
+For different arena sizes, An CAD file is included in [onshape](https://cad.onshape.com/documents/ca48d507c3fd7c9ce7248830/w/1ea42ce5460d0e61e3c79328/e/212a23a2a2e88e1fc001638d?renderMode=0&uiState=673f0b836b5b324331d632c9), in which the diameter of the arena can be adjusted (*X*-Variable) and exported for 3D printing. 
 
 
 
@@ -36,7 +38,7 @@ Regarding materials, you have some options ([material guides](https://support.ul
 
 | **Material Name**                        | **Vendor/Link**                          | **Notes**                                |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| Ultimaker CPE (co-polyester)             | RS Components, [134-8181](https://benl.rs-online.com/web/p/3d-printing-materials/134-8181) | [How to print CPE+](https://support.ultimaker.com/s/article/1667337602543) |
+| Ultimaker CPE (co-polyester)             | RS Components, [134-8181](https://benl.rs-online.com/web/p/3d-printing-materials/134-8181) | [How to print CPE](https://support.ultimaker.com/s/article/1667337602543) |
 | Ultimaker CPE+ (co-polyester+)           | RS Components, [159-6350](https://benl.rs-online.com/web/p/3d-printing-materials/1596350) | [How to print CPE+](https://support.ultimaker.com/s/article/1667411013763) |
 | Ultimaker PC (polycarbonate)             | RS Components, [159-6353](https://benl.rs-online.com/web/p/3d-printing-materials/1596353/) | [How to print PC](https://support.ultimaker.com/s/article/1667337602519) |
 | Ultimaker ABS (acrylonitrile butadiene styrene) | RS Components, [134-8171](https://benl.rs-online.com/web/p/3d-printing-materials/1348171) | [How to print ABS](https://support.ultimaker.com/s/article/1667337602935) |
