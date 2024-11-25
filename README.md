@@ -18,7 +18,7 @@ Keeping animals in the tracking area without escaping or hiding is challenging. 
 
 Our custom-designed 3D-printed arena effectively addressed these limitations. It enhanced tracking accuracy and eliminated visual interference between multiple arenas. Behavioral arenas were surrounded by water barriers in width and depth that prevented aphids from escaping or dropping into the water.The water level was maintained at the same level as the arena surface, ensuring there were no walls to hide. Additionally, the arenas can be easily 3D printed and produced at a low cost. 
 
- <img src="Images/Behavioral_arena_aphids.gif" alt="relative" style="width: 100%;" />
+ <img src="Images/Behavioral_arena_aphids.gif" alt="relative" style="width: 75%;" />
 
 
 
@@ -64,6 +64,7 @@ Here are examples of tracked aphids.
 
 
 
+https://github.com/user-attachments/assets/09f2a27d-1118-4d59-aaa9-f76e0f732501
 
 -------------
 
@@ -71,7 +72,7 @@ Interestingly, as a defense mechanism and survival strategy, aphids may display 
 
 
 
-<img src="Images/Aphid_Tonic_Immobility.gif" alt="relative" style="width: 50%;" />
+<img src="Images/Aphid_Tonic_Immobility.gif" alt="relative" style="width: 1000%;" />
 
 ------
 
