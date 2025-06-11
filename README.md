@@ -85,7 +85,15 @@ https://github.com/user-attachments/assets/bed94495-8360-40e9-9b54-ba1a5930d2c0
 
 For an overview of the implications in the behavioral arena to investigate the physiological and behavioral adaptations of aphids in response to changing conditions, please see our paper:
 
- El-Sayed Baz, Cissy Huygens, Federica Calevro and  Patrick Callaerts at [Journal](under_review  ) (under review).
+ 
+ El-Sayed Baz, Cissy Huygens, Federica Calevro & Patrick Callaerts (2025). Analysis of the impact of extrinsic and intrinsic factors on aphid locomotion using a novel machine-learning based system to track insect behavior. Entomologia Generalis, 45(2), 381-389. 
+[https://doi.org/10.1127/entomologia/2025/2876](https://doi.org/10.1127/entomologia/2025/2876)
+ 
+see also:
+
+Cissy Huygens, Mélanie Ribeiro Lopes, El-Sayed Baz, Jozef Vanden Broeck, Federica Calevro & Patrick Callaerts (2025). NPF signaling-dependent maintenance of metabolic homeostasis in the pea aphid is mediated by a highly selective ligand-receptor interaction and tissue-specific changes in NPF and NPFR. Heliyon 11, e43504.
+
+[https://doi.org/10.1016/j.heliyon.2025.e43504](https://doi.org/10.1016/j.heliyon.2025.e43504)
 
 -------------------------------------------------
 
